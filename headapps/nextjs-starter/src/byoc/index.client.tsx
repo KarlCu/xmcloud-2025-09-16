@@ -9,6 +9,8 @@ import * as FEAAS from '@sitecore-feaas/clientside/react';
 // Sitecore Forms for Sitecore XP are still available separately via @sitecore-jss-forms package
 import '@sitecore/components/form';
 
+import './ByocPromo';
+
 /**
  * End of built-in JSS imports
  * You can import your own client component below
