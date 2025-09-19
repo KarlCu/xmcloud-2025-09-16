@@ -1,0 +1,23 @@
+﻿---
+ID: "0a429ae4-6b22-4470-9774-14d9777a946a"
+Parent: "4f0fb5bd-74e0-40c0-afa5-3e7e99dd975e"
+Template: "0132adff-bfdb-40b4-975d-42fe1eff6417"
+Path: /sitecore/content/tac/events/Data/Holiday Type
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250917T001958Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df300e1d-3465-4484-8634-1894c2beb5cc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kcunanan@deloitte.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250917T011500Z

@@ -1,0 +1,23 @@
+﻿---
+ID: "87f0ade9-a2f6-433a-b037-46bb657745a7"
+Parent: "4f0fb5bd-74e0-40c0-afa5-3e7e99dd975e"
+Template: "7a8d0b68-6a39-4ae7-8ccf-bcb54392c235"
+Path: /sitecore/content/tac/events/Data/Heroes
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250917T064743Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e62c50f3-d44f-44c6-9d86-15a3b5070dba"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kcunanan@deloitte.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250917T064743Z

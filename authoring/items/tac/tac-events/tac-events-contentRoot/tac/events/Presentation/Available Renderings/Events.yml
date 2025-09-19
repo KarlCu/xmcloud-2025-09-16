@@ -1,0 +1,45 @@
+﻿---
+ID: "fde3ce82-9836-4ac7-970a-c2555f747138"
+Parent: "6e275321-c7db-4666-9136-1e88667585c9"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/tac/events/Presentation/Available Renderings/Events
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: |
+    {13F91CE5-CEC9-446B-9E28-A9869A901140}
+    {D3CE9FB7-3E0D-4CFF-B3CF-133931453433}
+    {7D023492-7002-4164-A88F-DC86DDB0BF1F}
+    {09D11F73-5E0D-47D3-A837-0BB18BB928C2}
+    {E3E0475A-0A39-4B37-BF75-74F44F9B6230}
+    {C8FED007-74BB-4CAC-94B0-92672FE099CF}
+    {4D64E9F9-26A0-41E8-A390-434CC24AD142}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a51d945a-6cc2-48c1-aba7-445cff58212f"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250917T042202Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kcunanan@deloitte.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kcunanan@deloitte.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9a2db95b-ff9f-4cd2-b5fc-adf41b5c68f2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kcunanan@deloitte.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250918T030212Z

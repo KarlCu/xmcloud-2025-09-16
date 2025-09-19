@@ -1,0 +1,34 @@
+﻿---
+ID: "dfa5ca9f-7750-4f3c-8e9e-384ed694541a"
+Parent: "c7a7faf7-912d-4da5-84e8-1ab2f4f6cb22"
+Template: "7a550b40-0fdd-4a5f-8937-c12c01043395"
+Path: /sitecore/content/tac/events/Home/Events/Hiking/Hiking the Italian Alps
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{8C624123-DEFA-4400-A702-4DE35F4F9CF5}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250917T005509Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Hiking the Italian Alps
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bdada378-1a81-44e3-b0cc-49ce571bf24b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kcunanan@deloitte.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250917T005509Z
+    - ID: "f167d615-d3d0-441c-8dc8-a986fac1a5f3"
+      Hint: Title
+      Value: Hiking the Italian Alps

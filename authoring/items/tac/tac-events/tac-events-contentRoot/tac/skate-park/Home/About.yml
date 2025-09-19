@@ -1,0 +1,74 @@
+﻿---
+ID: "0c8ac82e-8ab1-4fff-bcd1-612fd8a9e4a5"
+Parent: "083fbe80-9b46-4e5f-8f48-aacd15121c9a"
+Template: "9b8dd750-c761-4786-8240-86e1ea70b5d0"
+Path: "/sitecore/content/tac/skate-park/Home/About"
+BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{023BBBBC-1503-4041-B410-1408C04891A5}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "42ac7367-b669-4ab9-8a02-4f4b4d99a38b"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{E3485819-BFC2-4B09-BD10-663EF430FEC1}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b7256C63F-109E-42D8-99DF-809829D6F620%7d%7c%7b5676843A-452A-46F6-BFB7-191187728486%7d%7c%7bED91BB41-F70D-4D81-A22C-A7CCFE588BFF%7d%7c%7b0B373AF7-CBBB-4DD2-BC41-10813EEB3223%7d%7c%7b2BCC755F-BFCD-4DC7-BF1F-7C7A17251AE0%7d%7c%7bAD09C3E1-89B6-45B3-A93F-8DF00DF5AB38%7d%7c%7b1DEC28F8-116E-426E-99D4-39E3C37AAC47%7d%7c%7bC253663E-1F70-4941-9FF5-7ABAFA9C53F7%7d%7c%7b6C84064B-27F6-4659-954B-6F54E13102D8%7d%7c%7b5EBDB140-8581-491C-97CF-3E92F9A26A93%7d%7c%7b1A9607E7-F2DA-4113-9674-FE9F9830C5C8%7d%7c%7b245A8FC0-64AB-4B8B-8856-8D6611DB6691%7d%7c%7bFE17CE0D-5111-45E1-B81D-8E33FC24290E%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{DAF50C70-A3D7-4416-A107-C90FD970000E}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Text 1"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b175CB6DA-CF89-4D56-888C-EB79F514D12F%7d%7c%7b7DF615F7-0A53-42E1-A164-2B36D6126314%7d&amp;FieldNames=%7bA1653535-C09D-4B7F-B2EA-002FA50F26D7%7d"
+          s:ph="/headless-main/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B8E694EC-3576-4CC6-8628-AEE286A9AB38}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250916T012830Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: About
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kcunanan@deloitte.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kcunanan@deloitte.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "09ef3d11-d4d9-4648-b9e9-f7952ef55b13"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kcunanan@deloitte.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250916T061840Z
+    - ID: "f167d615-d3d0-441c-8dc8-a986fac1a5f3"
+      Hint: Title
+      Value: About updated
+    - ID: "fd70f2c0-fcfb-4432-b11b-1741f27af755"
+      Hint: Content
+      Value: "<p>This content has been updated through the XM Cloud GraphQL API!</p><p>Here's some additional content that explains the benefits of cloud-based content management.</p>"

@@ -1,0 +1,23 @@
+﻿---
+ID: "a01c7434-4003-4522-93b9-5f96b79f385a"
+Parent: "7f2d3f02-1285-4d4b-9c48-2f34a6660194"
+Template: "7f2d3f02-1285-4d4b-9c48-2f34a6660194"
+Path: /sitecore/templates/Project/tac/Events/Pages/_Base Content/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250916T235016Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "957581ab-be69-45d6-9078-a4f99696a68d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kcunanan@deloitte.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250916T235016Z

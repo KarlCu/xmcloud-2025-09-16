@@ -1,0 +1,72 @@
+﻿---
+ID: "05e688fe-3425-4a37-9de7-a8fb958c734c"
+Parent: "4ad4d82b-698f-4e5b-b44e-25015b834294"
+Template: "7a550b40-0fdd-4a5f-8937-c12c01043395"
+Path: /sitecore/content/tac/events/Home/Events/Climbing/Climb Mount Everest
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{EBD52804-7DDB-4DE5-B65E-EB0DF78CB8BB}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a90c07cd-67b1-4b17-8c40-9e0cf5adf0a1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: 
+    - ID: "1699a388-0add-4f7c-b510-b54fa17efd70"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="75325826-faca-4e35-91f4-dbad5c79311e" alt="Content image" />
+    - ID: "1914edfd-fb06-4371-9a0d-0bd75ff28823"
+      Hint: HolidayTypes
+      Value: |
+        {1C651BA9-C746-4B34-A121-4FEBA65C5B44}
+        {6210A929-F2F3-4AE9-851E-39D9E586F53B}
+        {81F15645-1615-48BB-ABFD-6FA1990DCB6F}
+    - ID: "254e4ba2-93f2-46f0-9a91-3a9802eef997"
+      Hint: EventLocation
+      Value: "{9EBE5653-82C6-4C2A-B42D-032767F37C8E}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250917T003022Z
+    - ID: "36863898-0be9-4231-b7ff-f61a6107d577"
+      Hint: Intro
+      Value: Climb Mount Everest Introduction
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Climb Mount Everest
+    - ID: "5f79ee53-0c46-4f00-aef8-cd0ffa8aa8c8"
+      Hint: EventDate
+      Value: 20250923T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b4a99ad7-7891-4351-8003-531579035bd7"
+    - ID: "a26f1cf2-ae6a-47b4-94b4-d091a5e126d9"
+      Hint: NavigationImage
+      Value: |
+        <image mediaid="{E632F096-9729-42C4-ACC0-A3EAAFF86FF6}" alt="Nav " />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kcunanan@deloitte.com
+    - ID: "d2fd148e-9747-4169-8989-14f0fe22f183"
+      Hint: RelatedEvents
+      Value: |
+        {50CB67AB-A0A7-4F3A-9E9D-0E7E33178FFA}
+        {D624351C-3BFA-4A99-9C1B-97E6738C099C}
+        {05E688FE-3425-4A37-9DE7-A8FB958C734C}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250918T053505Z
+    - ID: "f167d615-d3d0-441c-8dc8-a986fac1a5f3"
+      Hint: Title
+      Value: Climb Mount Everest

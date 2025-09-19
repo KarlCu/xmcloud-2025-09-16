@@ -1,0 +1,71 @@
+﻿---
+ID: "13a4d971-24f3-4057-a084-f2cb7ba16c51"
+Parent: "5d94e1ee-b6b1-4333-a472-b94248a7e705"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/tac/skate-park/Presentation/Partial Designs/Footer"
+BranchID: "8204a950-cbaa-4d06-878b-11ced5ddc1ad"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "57d8b21a-9d00-4eff-96d2-0c11d39fe5bb"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{5CD1F641-4F9E-44F7-B8BC-D9A8239FB521}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b4E793FA9-2636-4AC2-8F6D-BD12607EA45A%7d%7c%7b5792AF91-4B68-4FA9-988D-3E5C4C4BCFE2%7d%7c%7b7256C63F-109E-42D8-99DF-809829D6F620%7d%7c%7b5676843A-452A-46F6-BFB7-191187728486%7d%7c%7bED91BB41-F70D-4D81-A22C-A7CCFE588BFF%7d%7c%7b0B373AF7-CBBB-4DD2-BC41-10813EEB3223%7d%7c%7b2BCC755F-BFCD-4DC7-BF1F-7C7A17251AE0%7d%7c%7bAD09C3E1-89B6-45B3-A93F-8DF00DF5AB38%7d%7c%7b1DEC28F8-116E-426E-99D4-39E3C37AAC47%7d%7c%7bC253663E-1F70-4941-9FF5-7ABAFA9C53F7%7d%7c%7b6C84064B-27F6-4659-954B-6F54E13102D8%7d%7c%7b5EBDB140-8581-491C-97CF-3E92F9A26A93%7d%7c%7b1A9607E7-F2DA-4113-9674-FE9F9830C5C8%7d%7c%7b245A8FC0-64AB-4B8B-8856-8D6611DB6691%7d%7c%7bFE17CE0D-5111-45E1-B81D-8E33FC24290E%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-footer" />
+        <r
+          uid="{33A0913C-EC29-40E6-8264-35C8AC68FA2A}"
+          p:after="r[@uid='{5CD1F641-4F9E-44F7-B8BC-D9A8239FB521}']"
+          s:ds="local:/Data/Address"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7bE8DE26F3-E1F8-444F-A9C2-615AF4B7A80F%7d&amp;FieldNames=%7bA1653535-C09D-4B7F-B2EA-002FA50F26D7%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+        <r
+          uid="{C25EB9B6-3EB7-4C4F-931F-B3837A54F8D3}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Contact info"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7bE8DE26F3-E1F8-444F-A9C2-615AF4B7A80F%7d&amp;FieldNames=%7bA1653535-C09D-4B7F-B2EA-002FA50F26D7%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EDB00EAA-5ACA-4C4D-8B88-3195D992F980}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250916T012832Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kcunanan@deloitte.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kcunanan@deloitte.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2536e98d-8aca-49a3-a028-c25c192176ff"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kcunanan@deloitte.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250916T012841Z

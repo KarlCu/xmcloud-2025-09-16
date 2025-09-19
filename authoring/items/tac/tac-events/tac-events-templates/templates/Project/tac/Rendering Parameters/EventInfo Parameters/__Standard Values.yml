@@ -1,0 +1,27 @@
+﻿---
+ID: "d0de11d5-ccfc-49ac-baf2-d2d9fca1ddae"
+Parent: "09e1b263-b2d8-42da-a91b-da4835298146"
+Template: "09e1b263-b2d8-42da-a91b-da4835298146"
+Path: /sitecore/templates/Project/tac/Rendering Parameters/EventInfo Parameters/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3cd9851d-724f-41f6-9bbb-37a40f9750eb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kcunanan@deloitte.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250917T041101Z

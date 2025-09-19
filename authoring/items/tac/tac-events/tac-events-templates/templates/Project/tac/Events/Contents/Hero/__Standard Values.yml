@@ -1,0 +1,42 @@
+﻿---
+ID: "559bb11b-ae6d-41ec-a31a-7bf2424e51e1"
+Parent: "450ee89a-2141-443c-a610-43dd4aa7a3a3"
+Template: "450ee89a-2141-443c-a610-43dd4aa7a3a3"
+Path: /sitecore/templates/Project/tac/Events/Contents/Hero/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250917T064409Z
+    - ID: "2d1ef79e-151a-442e-8900-65eedab98b6f"
+      Hint: CTAImage
+      Value: |
+        <image mediaid="{8398E786-BB70-495D-823A-7C5941BC703B}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kcunanan@deloitte.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kcunanan@deloitte.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0a4c1b17-0c8f-4532-86ae-d17ad8b18014"
+    - ID: "9416cca6-466f-4833-9fe2-46ef37a18ca7"
+      Hint: CTAText
+      Value: Unforgetable Event Awaits You
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kcunanan@deloitte.com
+    - ID: "d60eb77c-c791-450e-98bb-e0bbf67d23ac"
+      Hint: CTALink
+      Value: |
+        <link text="Learn more" anchor="" linktype="internal" class="" title="Climb Mount Everest" target="_blank" querystring="" id="{05E688FE-3425-4A37-9DE7-A8FB958C734C}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250917T065520Z

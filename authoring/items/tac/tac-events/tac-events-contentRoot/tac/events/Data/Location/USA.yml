@@ -1,0 +1,26 @@
+﻿---
+ID: "ceabbefc-0251-4976-bd82-24ad55ce7253"
+Parent: "e7d649e2-a4f8-40ad-9184-d5f8ba1d3e0e"
+Template: "c4d35e4d-acff-4a7a-8b27-5ef332b2225a"
+Path: /sitecore/content/tac/events/Data/Location/USA
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250917T002816Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e89773f1-f016-431b-a5c5-5f03b9bb3a31"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kcunanan@deloitte.com
+    - ID: "c063dd39-123d-44d4-90c3-238669113eba"
+      Hint: Text
+      Value: USA
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250917T002816Z
